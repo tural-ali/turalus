@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Working on OneDome.com
+🔭 Software Architect@OneDome.com
 
 🌱 Currently learning: GoLang
 
