@@ -1,4 +1,7 @@
 ### Hi there 👋
+🔭 Working on OneDome.com
+🌱 Currently learning: GoLang
+📫 How to reach me: hello@turalali.com
 
 <!--
 **turalus/turalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
