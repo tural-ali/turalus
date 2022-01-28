@@ -1,6 +1,9 @@
 ### Hi there 👋
+
 🔭 Working on OneDome.com
+
 🌱 Currently learning: GoLang
+
 📫 How to reach me: hello@turalali.com
 
 <!--
