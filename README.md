@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 Software Architect @ OneDome.com
+🔭 Deputy CTO@OneDome.com
 
-🌱 Currently learning: GoLang
+🌱 Currently learning: Generative AI
 
-📫 How to reach me: hello@turalali.com
+📫 Reach me at: hi@turalali.com
 
 <!--
 **turalus/turalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
